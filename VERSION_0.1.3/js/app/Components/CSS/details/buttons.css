@@ -1,0 +1,79 @@
+.details_button{
+    width: 430px;
+    height: 70px;
+    margin-bottom: 20px;
+}
+
+.regular {
+    color: white;
+    font-size: 22px;
+    margin-right: 25px;
+}
+
+.plus {
+    color: #ffc926;
+    font-size: 22px;
+    margin-right: 25px;
+}
+
+#priceLbl {
+    margin-left:  6px;
+    font-size: 22px;
+}
+
+#andLbl {
+    font-size:    18px;
+    margin-top:    3px;
+    margin-right:  3px;
+    margin-left:   3px;
+}
+
+.iconStyle {
+    width:     30px;
+    height:    18px;
+    margin-top: 4px;
+    cache-priority: sticky;
+}
+
+#contentInfoArea {
+    margin-left: 25px;
+    margin-right: 25px;
+    width: 380px;
+}
+
+#textlabel {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 1);
+}
+
+#episodelabel {
+    font-size: 21px;
+    color: rgba(255, 255, 255, .6);
+    margin-top: -4px;
+    max-width: 380px;
+    max-lines: 1;
+    continue-mark: ...;
+}
+
+#expireIcon {
+    margin-top: 4px;
+}
+
+#expirelabel {
+    margin-left: 8px;
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 21px;
+}
+
+#purchased {
+    padding: 20px;
+    font-size: 26px;
+    color: white;
+}
+
+#progressBar{
+    width: 418px;
+    height: 7px;
+    margin-top: -5px;
+}
